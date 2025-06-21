@@ -2,8 +2,6 @@
 
 This project presents a data visualization dashboard built in **Tableau**, providing comprehensive insights into pizza sales for a fictional restaurant. Using historical sales data, the dashboard helps stakeholders understand customer behavior, top-performing products, and revenue patterns.
 
-![Pizza Sales Dashboard Screenshot](screenshots/dashboard_overview.png)
-
 ---
 
 ## 📊 Dashboard Features
@@ -68,9 +66,6 @@ Build a BI portfolio project
 Understand how to use sales data for decision-making
 
 Great for data storytelling in the food industry
-
-🖼️ Screenshots
-Overview
 
 
 🙌 Acknowledgements
